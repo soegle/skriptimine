@@ -1,6 +1,8 @@
 #!/bin/bash
 #Väljastab tervituse ja uuel real hüüumärgi
+var=$(whoami)
 
-
-echo "Tere Egle" 
+echo -n "Tere "
+echo $var 
 echo "!"
+
