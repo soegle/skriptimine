@@ -1,3 +1,4 @@
+
 #!/bin/bash
 # peab arvutama numbrite summat ja väljastama koos selgitava tekstiga
 
